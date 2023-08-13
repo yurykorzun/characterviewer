@@ -1,0 +1,4 @@
+   {
+    "APP_TITLE": "The Wire Character Viewer",
+    "API_URL": "http://api.duckduckgo.com/?q=the+wire+characters&format=json"
+   }

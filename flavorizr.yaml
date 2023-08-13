@@ -1,0 +1,18 @@
+flavors:
+  simpsonsviewer:
+    app:
+      name: "SimpsonsViewer"
+
+    android:
+      applicationId: "com.sample.simpsonsviewer"
+    ios:
+      bundleId: "com.sample.simpsonsviewer"
+
+  wireviewer:
+    app:
+      name: "WireViewer"
+
+    android:
+      applicationId: "com.sample.wireviewer"
+    ios:
+      bundleId: "com.sample.wireviewer"
