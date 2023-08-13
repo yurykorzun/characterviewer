@@ -1,14 +1,14 @@
 # character_viewer
 
-The "Simpsons Viewer" and "Wire Characters Viewer" are two delightful Flutter apps that shows a list of characters from two iconic TV shows: "The Simpsons" and "The Wire." Apps provides an engaging and visually appealing way for fans to explore a curated list of characters from both series.
+The "Simpsons Viewer" and "Wire Characters Viewer" are two delightful Flutter apps that show a list of characters from two iconic TV shows: "The Simpsons" and "The Wire." Apps provide an engaging and visually appealing way for fans to explore a curated list of characters from both series.
 
 ##Features
 
-Character List: The app opens to a well-organized list of characters from "The Simpsons" and "The Wire." Each character is represented by a thumbnail image and their name.
+Character List: The app opens to a well-organized list of characters from "The Simpsons" and "The Wire." A thumbnail image and their name represent each character.
 
-Search Functionality: Users can quickly find specific characters by using the search feature. As they type, the list dynamically updates to display characters whose names match the search query.
+Search Functionality: The search feature lets Users quickly find specific characters. As they type, the list dynamically updates to display characters whose names match the search query.
 
-Character Details: Tapping on a character's entry opens a detailed view. This view showcases the character's image, name, and a brief description.
+Character Details: Tapping on a character's entry opens a detailed view. This view showcases the character's image, name, and description.
 
 ## Getting Started
 
