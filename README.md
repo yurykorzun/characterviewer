@@ -1,16 +1,28 @@
 # character_viewer
 
-A new Flutter project.
+The "Simpsons Viewer" and "Wire Characters Viewer" are two delightful Flutter apps that shows a list of characters from two iconic TV shows: "The Simpsons" and "The Wire." Apps provides an engaging and visually appealing way for fans to explore a curated list of characters from both series.
+
+##Features
+
+Character List: The app opens to a well-organized list of characters from "The Simpsons" and "The Wire." Each character is represented by a thumbnail image and their name.
+
+Search Functionality: Users can quickly find specific characters by using the search feature. As they type, the list dynamically updates to display characters whose names match the search query.
+
+Character Details: Tapping on a character's entry opens a detailed view. This view showcases the character's image, name, and a brief description.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Launch "Simpsons Viewer" by running:
 
-A few resources to get you started if this is your first Flutter project:
+```shell
+fvm flutter run --flavor simpsonsviewer -t lib/main_simpsonsviewer.dart --dart-define-from-file=simpsons_characters.json  
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Launch "The Wire Character Viewer":
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```shell
+ fvm flutter run --flavor wireviewer -t lib/main_wireviewer.dart --dart-define-from-file=wire_characters.json    
+```
+
+![Screenshot 1](https://github.com/yurykorzun/characterviewer/blob/main/screenshot1.png?raw=true "Screenshot 1")
+![Screenshot 2](https://github.com/yurykorzun/characterviewer/blob/main/screenshot2.png?raw=true "Screenshot 2")
